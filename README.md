@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ankiwords.png" alt="Anki Words" width="200">
+  <img src="assets/ankiwords.png" alt="Anki Words" width="160">
 </p>
 
 <h1 align="center">Anki Words</h1>
@@ -8,6 +8,12 @@
     Turn new English words into Anki cards:<br>
     choose a deck and note type, then let AI fill the fields.
 </p>
+
+![Go](https://img.shields.io/badge/Go-1.23+-00ADD8?logo=go&logoColor=white)
+![Logs](https://img.shields.io/badge/Logs-Zap-F7B731)
+![Tests](https://img.shields.io/badge/Tests-Passing-2ECC71)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Terminal](https://img.shields.io/badge/Terminal-App-111111)
 
 ## Requirements
 
