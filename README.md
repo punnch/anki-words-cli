@@ -1,4 +1,8 @@
-# Anki Words TUI
+<p align="center">
+  <img src="assets/ankiwords.png" alt="Anki Words" width="200">
+</p>
+
+<h1 align="center">Anki Words</h1>
 
 ![app screenshot](assets/ankiwords.png)
 
