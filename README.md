@@ -4,7 +4,10 @@
 
 <h1 align="center">Anki Words</h1>
 
-Terminal app for creating English vocabulary notes in Anki. Enter words, choose an Anki deck/model, and the app asks an OpenAI-compatible API to generate fields for that note model.
+<p align="center">
+    Turn new English words into Anki cards: 
+    choose a deck and note type, then let AI fill the fields.
+</p>
 
 ## Requirements
 
