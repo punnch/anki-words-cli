@@ -10,12 +10,12 @@
 </p>
 
 <p align="center">
-    ![Go](https://img.shields.io/badge/Go-1.23+-00ADD8?logo=go&logoColor=white)
-    ![Logs](https://img.shields.io/badge/Logs-Zap-F7B731)
-    ![Tests](https://img.shields.io/badge/Tests-Passing-2ECC71)
-    ![License](https://img.shields.io/badge/License-MIT-blue)
-    ![Terminal](https://img.shields.io/badge/Terminal-App-111111)
-</p
+    <img src="https://img.shields.io/badge/Go-1.23+-00ADD8?logo=go&logoColor=white" alt="Go">
+    <img src="https://img.shields.io/badge/Logs-Zap-F7B731" alt="Logs">
+    <img src="https://img.shields.io/badge/Tests-Passing-2ECC71" alt="Tests">
+    <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
+    <img src="https://img.shields.io/badge/Terminal-App-111111" alt="Terminal">
+</p>
 
 ## Requirements
 
